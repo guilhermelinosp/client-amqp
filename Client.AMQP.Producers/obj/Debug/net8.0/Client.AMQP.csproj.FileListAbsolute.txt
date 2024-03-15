@@ -1,0 +1,17 @@
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/Client.AMQP
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/Client.AMQP.deps.json
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/Client.AMQP.runtimeconfig.json
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/Client.AMQP.dll
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/Client.AMQP.pdb
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.csproj.AssemblyReference.cache
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.AssemblyInfoInputs.cache
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.AssemblyInfo.cs
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.csproj.CoreCompileInputs.cache
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.csproj.CopyComplete
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.dll
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/refint/Client.AMQP.dll
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.pdb
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/Client.AMQP.genruntimeconfig.cache
+/home/guilhermelinosp/repositories/dotnet/Soluiton/Client.AMQP/obj/Debug/net8.0/ref/Client.AMQP.dll

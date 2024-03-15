@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWF3nfi0wJxy7JLBuQRwD0JZ8QAUBTL45L/3NxovI7Nn7kH9O2Jd127k8b6UwTJPn6/dp3kVAflHew0kofVFOw==",
+  "success": true,
+  "projectFilePath": "/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/Client.AMQP.Consumers.csproj",
+  "expectedPackageFiles": [
+    "/home/guilhermelinosp/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
+    "/home/guilhermelinosp/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/guilhermelinosp/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/Client.AMQP.Consumers
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/Client.AMQP.Consumers.deps.json
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/Client.AMQP.Consumers.runtimeconfig.json
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/Client.AMQP.Consumers.dll
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/Client.AMQP.Consumers.pdb
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.csproj.AssemblyReference.cache
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.AssemblyInfoInputs.cache
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.AssemblyInfo.cs
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.csproj.CoreCompileInputs.cache
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.csproj.CopyComplete
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.dll
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/refint/Client.AMQP.Consumers.dll
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.pdb
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/Client.AMQP.Consumers.genruntimeconfig.cache
+/home/guilhermelinosp/repositories/dotnet/client-amqp/Client.AMQP.Consumers/obj/Debug/net8.0/ref/Client.AMQP.Consumers.dll
